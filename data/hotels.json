@@ -1,0 +1,788 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Amaris Hotel",
+      "classification": "Hotel",
+      "star_rating": 2,
+      "total_rooms": 98,
+      "address": "Jl. Sudirman No.19 Padang Barat, Kota Padang",
+      "contact": {
+        "pic_name": "Edwar",
+        "phone": "+62 811 8091 307",
+        "office_phone": "+62751 32777",
+        "email": "Padang@amarishotel.com"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bat & Arrow Hotel",
+      "classification": "Hotel",
+      "star_rating": 2,
+      "total_rooms": 14,
+      "address": "Jl. Batang Arau No.25",
+      "contact": {
+        "pic_name": "Ricardo",
+        "phone": "+6282284588793",
+        "office_phone": "+62751 893552",
+        "email": "batandarrowpadang@gmail.com"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Bintang Hotel",
+      "classification": "Hotel",
+      "star_rating": 1,
+      "total_rooms": 26,
+      "address": "JL. Bandar Pulau Karam No. 29 Kel Berok Nipah",
+      "contact": {
+        "pic_name": "Dedy",
+        "phone": "+6281267678793",
+        "office_phone": "+62751 39616",
+        "email": "reservation.bintanghotel@yahoo.com"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Bunda Hotel Padang",
+      "classification": "Hotel",
+      "star_rating": 2,
+      "total_rooms": 55,
+      "address": "JL. Bundo Kanduang No. 19 Padang",
+      "contact": {
+        "pic_name": "Nova",
+        "phone": "+62 812 7062 7515",
+        "office_phone": "+62751 812244",
+        "email": "bundahotel@yahoo.com"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Cavery Beach Hotel",
+      "classification": "Hotel",
+      "star_rating": 0,
+      "total_rooms": 33,
+      "address": "Jl. Padang Painan KM 21 Padang",
+      "contact": {
+        "pic_name": "Agus Hendro",
+        "phone": "+6281270785554",
+        "office_phone": "+62751 751665",
+        "email": "hotelcaverybeach@gmail.com"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Daima Gardenstay Hotel",
+      "classification": "Hotel",
+      "star_rating": 1,
+      "total_rooms": 20,
+      "address": "Jl. Azizi No 122, Kel. Andalas Kec. Padang Timur",
+      "contact": {
+        "pic_name": "Firdaus",
+        "phone": "+6283185920120",
+        "office_phone": "+62751 811868",
+        "email": "gm.daimagardenstay@gmail.com"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Daima Hotel",
+      "classification": "Hotel",
+      "star_rating": 3,
+      "total_rooms": 93,
+      "address": "Jl. Jenderal Sudirman No.17 Kp. Jao Padang Barat",
+      "contact": {
+        "pic_name": "Yos Firmansyah",
+        "phone": "+628119104615",
+        "office_phone": "+62 751 892 700",
+        "email": "reservation@daimahotel.com"
+      }
+    },
+    {
+      "id": 8,
+      "name": "D'Dhave Hotel",
+      "classification": "Hotel",
+      "star_rating": 0,
+      "total_rooms": 17,
+      "address": "Jl. Purus IV No. 12A Kel. Purus Kec. Padang barat Kota Padang",
+      "contact": {
+        "pic_name": "Adli",
+        "phone": "+6281374856785",
+        "office_phone": "+62751 892333",
+        "email": "ddhavehotel@gmail.com"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Deivan Hotel",
+      "classification": "Hotel",
+      "star_rating": 2,
+      "total_rooms": 34,
+      "address": "Jl. Diponegoro No.25",
+      "contact": {
+        "pic_name": "Jelita Citra",
+        "phone": "+6285272592909",
+        "office_phone": "+62 751 841615",
+        "email": "reservation.deivanhotel@gmail.com"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Djakarta Hotel",
+      "classification": "Hotel",
+      "star_rating": 0,
+      "total_rooms": 59,
+      "address": "Jl. Belakang Olo No.57 RT 01 RW 04 Kel.Olo Kec Padang Barat",
+      "contact": {
+        "pic_name": "Eriyanti",
+        "phone": "+6281261210951",
+        "office_phone": "+62751 23331",
+        "email": "hoteldjakarta@yahoo.co.id"
+      }
+    },
+    {
+      "id": 11,
+      "name": "D'Ox Ville Hotel",
+      "classification": "Hotel",
+      "star_rating": 3,
+      "total_rooms": 29,
+      "address": "Jl. Kampung Sebelah No 26-28",
+      "contact": {
+        "pic_name": "Iman Jaya",
+        "phone": "+6285364294130",
+        "office_phone": "+6275 1812999",
+        "email": "reservation.oxville@gmail.com"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Fave Hotel",
+      "classification": "Hotel",
+      "star_rating": 3,
+      "total_rooms": 91,
+      "address": "Jl. Belakang Olo No.46 Kel.Olo Kec.Padang Barat",
+      "contact": {
+        "pic_name": "Dendy Rully",
+        "phone": "+6281266796959",
+        "office_phone": "+62751 29955211",
+        "email": "padanginfo@favehotels.com"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Garuda Hotel",
+      "classification": "Hotel",
+      "star_rating": 0,
+      "total_rooms": 38,
+      "address": "Jl. Permindo No.4 Kec. Padang Barat",
+      "contact": {
+        "pic_name": "Epi Asdi",
+        "phone": "+6282169087409",
+        "office_phone": "+62751 27143",
+        "email": "hotelgaruda4@gmail.com"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Grace Hill Villa",
+      "classification": "Hotel",
+      "star_rating": 0,
+      "total_rooms": 10,
+      "address": "Jl. Air Dingin RT.001 RW.009 Kel. Balai Gadang, Kec. Koto Tangah",
+      "contact": {
+        "pic_name": "Julianti Halim",
+        "phone": "+6281374127499",
+        "office_phone": "+6281374127499",
+        "email": "reservation@grandsarihotel.com"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Grand Sari Hotel",
+      "classification": "Hotel",
+      "star_rating": 2,
+      "total_rooms": 45,
+      "address": "Jl. Thamrin No. 48",
+      "contact": {
+        "pic_name": "Ferry Rahman",
+        "phone": "+62811665611",
+        "office_phone": "+62751 891555",
+        "email": "dhm@hotelhangtuah.com"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Hangtuah Hotel",
+      "classification": "Hotel",
+      "star_rating": 1,
+      "total_rooms": 38,
+      "address": "Jl. Pemuda No.1 RT.001 RW.001 Kel. Olo Kec. Padang Barat",
+      "contact": {
+        "pic_name": "Elvis Syarif",
+        "phone": "+6281219308600",
+        "office_phone": "+62751 26556",
+        "email": "maranatha_homestay@yahoo.com"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Havilla Maranatha Hotel",
+      "classification": "Hotel",
+      "star_rating": 0,
+      "total_rooms": 24,
+      "address": "Jl. Bandar Pulau Karam No.10D Kec Padang Barat Kel. Kampung Pondok",
+      "contact": {
+        "pic_name": "Elizabeth",
+        "phone": "+62811661766",
+        "office_phone": "+62751 31546",
+        "email": "ronaramadani36@yahoo.com"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Hw Hotel",
+      "classification": "Hotel",
+      "star_rating": 3,
+      "total_rooms": 78,
+      "address": "Jl. Hayam Wuruk No.16",
+      "contact": {
+        "pic_name": "Sari Havianti",
+        "phone": "+628126730595",
+        "office_phone": "+62751 893500",
+        "email": "www.hwhotelpadang.com"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Ibis Hotel",
+      "classification": "Hotel",
+      "star_rating": 3,
+      "total_rooms": 168,
+      "address": "Jl. Taman Siswa No.1A",
+      "contact": {
+        "pic_name": "Ferry Iswoyo",
+        "phone": "+628116663330",
+        "office_phone": "+62751 4488688",
+        "email": "www.all.accor.com"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Imelda Hotel & Water Park",
+      "classification": "Hotel",
+      "star_rating": 4,
+      "total_rooms": 108,
+      "address": "Jl. Intan No.12 Komplek L.I.K Ulu Gadut",
+      "contact": {
+        "pic_name": "M. Riad Z Lubis",
+        "phone": "+62811668848",
+        "office_phone": "+62751 71199",
+        "email": "www.imeldahotel.com"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Ion Hotel",
+      "classification": "Hotel",
+      "star_rating": 0,
+      "total_rooms": 42,
+      "address": "Jl. S. Parman No.250",
+      "contact": {
+        "pic_name": "Vidi",
+        "phone": "+6281374698061",
+        "office_phone": "+62751 446767",
+        "email": "acc.ionhotel@gmail.com"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Jorisa Hotel",
+      "classification": "Hotel",
+      "star_rating": 1,
+      "total_rooms": 18,
+      "address": "Jl. Kampung Sebelah No.27 A Kel. Berok Nipah Kec. Padang Barat",
+      "contact": {
+        "pic_name": "Rani DF",
+        "phone": "+6281266708709",
+        "office_phone": "+62751 8959041",
+        "email": "www.jorisahotel.com"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Kawana Hotel",
+      "classification": "Hotel",
+      "star_rating": 3,
+      "total_rooms": 63,
+      "address": "Jl. MH. Thamrin No.71 Kel. Ranah Parak Rumbio, Kec. Padang Selatan",
+      "contact": {
+        "pic_name": "Dodo Abdul Rani",
+        "phone": "+628116616833",
+        "office_phone": "+62751 890 777",
+        "email": "www.kawanahotel.co.id"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Kyriad Bumiminang Hotel",
+      "classification": "Hotel",
+      "star_rating": 4,
+      "total_rooms": 102,
+      "address": "Jl. Bundo Kandung No. 20-28 Kel. Kampung Pondok, Kec. Padang Barat",
+      "contact": {
+        "pic_name": "Dewi",
+        "phone": "+6281363567576",
+        "office_phone": "+62075 37955",
+        "email": "reservation@bumiminanghotel.com"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Lovetel Hotel",
+      "classification": "Hotel",
+      "star_rating": 1,
+      "total_rooms": 22,
+      "address": "Jl. Terandam IV/4, Kelurahan Sawahan, Kecamatan Padang Timur",
+      "contact": {
+        "pic_name": "Sam Salam",
+        "phone": "+62811685311",
+        "office_phone": "+62751 8956763",
+        "email": "samlovetel@gmail.com"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Mariani Hotel",
+      "classification": "Hotel",
+      "star_rating": 2,
+      "total_rooms": 42,
+      "address": "Jl. Bundo Kandung No.35 Kelurahan Belakang Tangsi, Kecamatan Padang Barat",
+      "contact": {
+        "pic_name": "Dr. Wide",
+        "phone": "+62811664979",
+        "office_phone": "+62751 8956763",
+        "email": "marianihotel@yahoo.com"
+      }
+    },
+    {
+      "id": 27,
+      "name": "Mercure Hotel",
+      "classification": "Hotel",
+      "star_rating": 4,
+      "total_rooms": 146,
+      "address": "Jl. Purus IV No.8",
+      "contact": {
+        "pic_name": "Subhan H Sahbana",
+        "phone": "+62811668886",
+        "office_phone": "+62751891188",
+        "email": "info@mercurepadang.com"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Mervit Hotel",
+      "classification": "Hotel",
+      "star_rating": 1,
+      "total_rooms": 53,
+      "address": "Jl. Pursus 2 No.6",
+      "contact": {
+        "pic_name": "Yutri",
+        "phone": "+628136394008",
+        "office_phone": "+62751340034",
+        "email": "hotelmervit@gmail.com"
+      }
+    },
+    {
+      "id": 29,
+      "name": "Mocca Guest House",
+      "classification": "Guest House",
+      "star_rating": 0,
+      "total_rooms": 45,
+      "address": "Jl. Ujung belakang olo no 5 kel olo padang barat provinsi sumatera barat",
+      "contact": {
+        "pic_name": "Sherly",
+        "phone": "+628116921093",
+        "office_phone": "+628112220909",
+        "email": "guesthousemocca@gmail.com"
+      }
+    },
+    {
+      "id": 30,
+      "name": "Mongonsidi Hotel",
+      "classification": "Hotel",
+      "star_rating": 2,
+      "total_rooms": 33,
+      "address": "Jl. WR Mongonsidi No.2 BB",
+      "contact": {
+        "pic_name": "Shanti",
+        "phone": "+6281266281973",
+        "office_phone": "+62751 896534",
+        "email": "reservation.mongonsidhotel@gmail.com"
+      }
+    },
+    {
+      "id": 31,
+      "name": "My All Hotel",
+      "classification": "Hotel",
+      "star_rating": 3,
+      "total_rooms": 26,
+      "address": "Jl. Samudera No.30 Simpang Olo Ladang",
+      "contact": {
+        "pic_name": "Egi Rahmat Putra",
+        "phone": "+628127858589",
+        "office_phone": "+62751 8951700",
+        "email": "om.myallhotel@gmail.com"
+      }
+    },
+    {
+      "id": 32,
+      "name": "New D'Dhave Hotel",
+      "classification": "Hotel",
+      "star_rating": 2,
+      "total_rooms": 40,
+      "address": "Jl. Berok Raya Jembatan lama kurao pagang siteba",
+      "contact": {
+        "pic_name": "Adil",
+        "phone": "+6281276325565",
+        "office_phone": "+62751 464033",
+        "email": "newddhavehotel@gmail.com"
+      }
+    },
+    {
+      "id": 33,
+      "name": "New Rasaki Hotel",
+      "classification": "Hotel",
+      "star_rating": 2,
+      "total_rooms": 82,
+      "address": "Jl. By Pass Km 16. Kec. Koto Tangah. Kota Padang, Sumatera Barat",
+      "contact": {
+        "pic_name": "Neiko",
+        "phone": "+6281268840447",
+        "office_phone": "+6281268840447",
+        "email": "RASAKIHOTELPADANG@GMAIL.COM"
+      }
+    },
+    {
+      "id": 34,
+      "name": "Ocean Beach Hotel",
+      "classification": "Hotel",
+      "star_rating": 3,
+      "total_rooms": 88,
+      "address": "Jl. Wolter Monginsidi No. 04 D - E",
+      "contact": {
+        "pic_name": "Dewa",
+        "phone": "+62812386714499",
+        "office_phone": "+62812386714499",
+        "email": "zurni@teeboxcc.com"
+      }
+    },
+    {
+      "id": 35,
+      "name": "Padang Hotel",
+      "classification": "Hotel",
+      "star_rating": 2,
+      "total_rooms": 46,
+      "address": "Jl. Bagindo Aziz Chan No. 28",
+      "contact": {
+        "pic_name": "Refils",
+        "phone": "+6281374092899",
+        "office_phone": "+62751 31383 / 37402 / +6281271186701",
+        "email": "padang.hotel@yahoo.com"
+      }
+    },
+    {
+      "id": 36,
+      "name": "Pangeran Beach Hotel",
+      "classification": "Hotel",
+      "star_rating": 4,
+      "total_rooms": 181,
+      "address": "Jl. Ir. H. Juanda No.79",
+      "contact": {
+        "pic_name": "Soedjoko",
+        "phone": "+6282166193294",
+        "office_phone": "+62751-7051333",
+        "email": "hrd@beach.hotelpangeran.com"
+      }
+    },
+    {
+      "id": 37,
+      "name": "Pangeran City Hotel",
+      "classification": "Hotel",
+      "star_rating": 3,
+      "total_rooms": 97,
+      "address": "Jl. Dobi No.3 - 5",
+      "contact": {
+        "pic_name": "Hanafi",
+        "phone": "+6282313070700",
+        "office_phone": "+62751 31233",
+        "email": "reservation@city.hotelpangeran.com"
+      }
+    },
+    {
+      "id": 38,
+      "name": "Plan B Hotel",
+      "classification": "Hotel",
+      "star_rating": 2,
+      "total_rooms": 39,
+      "address": "Jl. Hayam Wuruk No.28 Padang",
+      "contact": {
+        "pic_name": "Jessi Darmali",
+        "phone": "+6282167126377",
+        "office_phone": "+62751 892100",
+        "email": "management@planb-hotel.com"
+      }
+    },
+    {
+      "id": 39,
+      "name": "Polamas Residence Hotel",
+      "classification": "Hotel",
+      "star_rating": 0,
+      "total_rooms": 88,
+      "address": "Komp. Polamas Blok A no 88 Kel andalas Padang Timur",
+      "contact": {
+        "pic_name": "Yogi Kurnia",
+        "phone": "+6281341177034",
+        "office_phone": "+62751 8957777",
+        "email": "polamasresidence@gmail.com"
+      }
+    },
+    {
+      "id": 40,
+      "name": "Puncak Air Manis Residence",
+      "classification": "Hotel",
+      "star_rating": 0,
+      "total_rooms": 4,
+      "address": "Jl. Airmanis No.151 Kel. Gado-gado, Kec. Padang Selatan",
+      "contact": {
+        "pic_name": "Zariah Putri",
+        "phone": "+6282173140459",
+        "office_phone": "+6281374104569",
+        "email": "zariahputri@gmail.com"
+      }
+    },
+    {
+      "id": 41,
+      "name": "Rangkayo Basa Hotel Padang",
+      "classification": "Hotel",
+      "star_rating": 2,
+      "total_rooms": 53,
+      "address": "Jl. Hang Tuah No 211 Padang Barat",
+      "contact": {
+        "pic_name": "Widadi",
+        "phone": "+628127216517",
+        "office_phone": "+62751 891888",
+        "email": "hotelrangkayobasa@gmail.com"
+      }
+    },
+    {
+      "id": 42,
+      "name": "Rocky Plaza Hotel Padang",
+      "classification": "Hotel",
+      "star_rating": 4,
+      "total_rooms": 171,
+      "address": "Jl. Permindo No.40",
+      "contact": {
+        "pic_name": "Buyung Arani",
+        "phone": "+628116658500",
+        "office_phone": "+62751 840888",
+        "email": "HRDROCKYHOTELPADANG@GMAIL.COM"
+      }
+    },
+    {
+      "id": 43,
+      "name": "Rumah Rb Hotel",
+      "classification": "Hotel",
+      "star_rating": 1,
+      "total_rooms": 25,
+      "address": "Jl. DR. Sutomo No.4 B Kubu Marapalam",
+      "contact": {
+        "pic_name": "Benny",
+        "phone": "+6281363744155",
+        "office_phone": "+62751 75691",
+        "email": "hotelrumahrb@gmail.com"
+      }
+    },
+    {
+      "id": 44,
+      "name": "Santika Premier Hotel Padang",
+      "classification": "Hotel",
+      "star_rating": 4,
+      "total_rooms": 250,
+      "address": "Jl. Ahmad Yani No. 20, Kel. Padang Pasir, Kec. Padang Barat",
+      "contact": {
+        "pic_name": "Alvin",
+        "phone": "+6281268658086",
+        "office_phone": "+62751 29222",
+        "email": "padangpremiere@santika.com"
+      }
+    },
+    {
+      "id": 45,
+      "name": "Savali Hotel",
+      "classification": "Hotel",
+      "star_rating": 3,
+      "total_rooms": 38,
+      "address": "Jl. Hayam Wuruk no.31",
+      "contact": {
+        "pic_name": "John Edward",
+        "phone": "+628127056800",
+        "office_phone": "+62751 27600",
+        "email": "savali_htl@yahoo.com"
+      }
+    },
+    {
+      "id": 46,
+      "name": "Sawahan Hotel",
+      "classification": "Hotel",
+      "star_rating": 0,
+      "total_rooms": 25,
+      "address": "Jl. Sawahan No.38",
+      "contact": {
+        "pic_name": "Yasri Dewi",
+        "phone": "+628116656193",
+        "office_phone": "+62751 25111",
+        "email": "ptsawahanhotel@gmail.com"
+      }
+    },
+    {
+      "id": 47,
+      "name": "Tana Hotel",
+      "classification": "Hotel",
+      "star_rating": 2,
+      "total_rooms": 15,
+      "address": "Jl. Utama Intan J4 (Belakang RS. Ibnu Sina) Kel. Alai Parak Kopi Padang",
+      "contact": {
+        "pic_name": "Evida",
+        "phone": "+6281268658086",
+        "office_phone": "+6281261100850",
+        "email": "TANAHOTELPDG@GMAIL.COM"
+      }
+    },
+    {
+      "id": 48,
+      "name": "The Abidin Hotel",
+      "classification": "Hotel",
+      "star_rating": 0,
+      "total_rooms": 25,
+      "address": "Jl. Alang Lawas I No.15 Kel. Alang Lawas Kec. Padang Selatan Kota",
+      "contact": {
+        "pic_name": "Yudita Ramli",
+        "phone": "+628111753107",
+        "office_phone": "+62751 40633",
+        "email": "theabidinhotel@gmail.com"
+      }
+    },
+    {
+      "id": 49,
+      "name": "The Axana Hotel",
+      "classification": "Hotel",
+      "star_rating": 4,
+      "total_rooms": 139,
+      "address": "Jl. Bundo Kandung No.14 -16 Rt.02 Rw. 10 Kel. Kampung Pondok Kec. Padang Barat.",
+      "contact": {
+        "pic_name": "Lambok J Situmeang",
+        "phone": "+6281362318357",
+        "office_phone": "+62751 7530456",
+        "email": "hrd@theaxanahotel.com"
+      }
+    },
+    {
+      "id": 50,
+      "name": "The Sriwijaya Hotel",
+      "classification": "Hotel",
+      "star_rating": 1,
+      "total_rooms": 29,
+      "address": "Jl. Veteran No.26 Kel. Padang Pasir, Kec. Padang Barat",
+      "contact": {
+        "pic_name": "Yudita Ramli",
+        "phone": "+62 811 7531 507",
+        "office_phone": "+62751 21942",
+        "email": "thesriwijaya@yahoo.com"
+      }
+    },
+    {
+      "id": 51,
+      "name": "The ZHM Premiere Hotel",
+      "classification": "Hotel",
+      "star_rating": 4,
+      "total_rooms": 208,
+      "address": "Jl. MH. Thamrin No.27",
+      "contact": {
+        "pic_name": "Surni Yanti",
+        "phone": "+628126635007",
+        "office_phone": "+62751 394 888",
+        "email": "gmsec.pdg@grandzuri.com"
+      }
+    },
+    {
+      "id": 52,
+      "name": "Truntum Hotel",
+      "classification": "Hotel",
+      "star_rating": 4,
+      "total_rooms": 168,
+      "address": "Jl. Gereja No.34",
+      "contact": {
+        "pic_name": "Domu Siregar",
+        "phone": "+6281277433749",
+        "office_phone": "+62751 35600",
+        "email": "hcm@grandinnapadang.com"
+      }
+    },
+    {
+      "id": 53,
+      "name": "Unp Hotel & Convention",
+      "classification": "Hotel",
+      "star_rating": 0,
+      "total_rooms": 58,
+      "address": "Jl. Prof. DR. Hamka, Air Tawar Barat Kec. Padang Utara",
+      "contact": {
+        "pic_name": "Naldi Hendri",
+        "phone": "+6285366161949",
+        "office_phone": "+62751 7053754",
+        "email": "reservation@hotel.unp.ac.id"
+      }
+    },
+    {
+      "id": 54,
+      "name": "Weekday Hotel",
+      "classification": "Hotel",
+      "star_rating": 1,
+      "total_rooms": 8,
+      "address": "Jl. Nipah No.6c Padang",
+      "contact": {
+        "pic_name": "Cindy Irwan",
+        "phone": "+628116687876",
+        "office_phone": "+628116687876",
+        "email": "cindy.arman@gmail.com"
+      }
+    },
+    {
+      "id": 55,
+      "name": "Whiz Prime Hotel",
+      "classification": "Hotel",
+      "star_rating": 3,
+      "total_rooms": 136,
+      "address": "Jl. Khatib Sulaiman No.48 A Padang",
+      "contact": {
+        "pic_name": "Deni Amarta",
+        "phone": "+6282335778868",
+        "office_phone": "+62751 8970555",
+        "email": "gm.ks-padang@whizprime.com"
+      }
+    },
+    {
+      "id": 56,
+      "name": "Wisma Jati",
+      "classification": "Wisma",
+      "star_rating": 0,
+      "total_rooms": 12,
+      "address": "Jl. KIS Mangun Sarkoro VII No. 5 Padang",
+      "contact": {
+        "pic_name": "Refirzon",
+        "phone": "+6285364740494",
+        "office_phone": "+62751 35715",
+        "email": "refirzon.faisol@yahoo.com"
+      }
+    }
+  ]
+}
