@@ -86,16 +86,16 @@ GET /hotels/:id
 
 ```bash
 # Get semua hotel
-curl http://localhost:3000/hotels
+curl https://padang-hotel-api.vercel.app/hotels
 
 # Cari hotel berdasarkan nama
-curl http://localhost:3000/hotels?search=mercure
+curl https://padang-hotel-api.vercel.app/hotels?search=mercure
 
 # Filter hotel bintang 4
-curl http://localhost:3000/hotels?star_rating=4
+curl https://padang-hotel-api.vercel.app/hotels?star_rating=4
 
 # Get hotel spesifik by ID
-curl http://localhost:3000/hotels/1
+curl https://padang-hotel-api.vercel.app/hotels/1
 ```
 
 ### Contoh Response
@@ -126,7 +126,7 @@ curl http://localhost:3000/hotels/1
 Dokumentasi lengkap API dapat diakses di:
 
 ```
-http://localhost:3000
+https://padang-hotel-api.vercel.app/
 ```
 
 ## 🔑 Environment Variables
