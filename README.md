@@ -33,7 +33,7 @@ project/
 
 ## ⚙️ Prerequisites
 
-- Node.js (versi 14 atau lebih tinggi)
+- Node.js (versi 21 atau lebih tinggi)
 - NPM (Node Package Manager)
 
 ## 🚀 Instalasi
@@ -41,8 +41,8 @@ project/
 1. Clone repositori
 
 ```bash
-git clone https://github.com/username/hotel-reference-api.git
-cd hotel-reference-api
+git clone https://github.com/kp-dpmptsp-padang/padang-hotel-api.git
+cd padang-hotel-api
 ```
 
 2. Install dependencies
@@ -54,7 +54,7 @@ npm install
 3. Jalankan server
 
 ```bash
-npm start
+npm run start
 ```
 
 Server akan berjalan di `http://localhost:3000`
