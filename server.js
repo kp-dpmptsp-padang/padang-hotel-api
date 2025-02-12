@@ -17,7 +17,7 @@ app.get("/", (req, res) => {
 app.get("/hotels", (req, res) => {
   try {
     let filteredHotels = [...hotels.hotels];
-    const { search, star_rating, limit = 10, page = 1 } = req.query;
+    const { search, star_rating } = req.query;
 
     // Filter by search query
     if (search) {
@@ -33,13 +33,8 @@ app.get("/hotels", (req, res) => {
       );
     }
 
-    // Pagination
-    const startIndex = (page - 1) * limit;
-    const endIndex = startIndex + parseInt(limit);
-    const paginatedHotels = filteredHotels.slice(startIndex, endIndex);
-
     res.json({
-      hotels: paginatedHotels,
+      hotels: filteredHotels,
     });
   } catch (error) {
     res.status(500).json({
